@@ -33,7 +33,7 @@ body {
     margin-left: 5%;
 }
 
-.name {
+.Name {
     font-size: 130%;
 }
 
@@ -89,4 +89,9 @@ a:active {
 
 .group-image {
     width: 100%;
+}
+
+#ProjectText {
+    line-height: 150%;
+    margin-right: 5%;
 }
