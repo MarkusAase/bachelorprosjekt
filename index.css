@@ -17,7 +17,6 @@ body {
 #contentContainer {
     margin-left: 7%;
     margin-right: 7%;
-    margin-top: 65%;
 }
 
 .center {
@@ -60,18 +59,18 @@ a:active {
 
 .documentLinks {
     padding: 15px;
+    display: inline-block;
 }
 
 .documentLinks:hover {
     background-color: #2d2d2d;
-    display: inline-block;
+
 }
 
 #titleBG {
-   height: 100%;
+   height: 100vh;
    width: 100%;
     background-color: #2D2D2A;
-    position: absolute;
     margin-top: 0;
 }
 
@@ -82,4 +81,12 @@ a:active {
 
 .documentText {
     font-size: 150%;
+}
+
+.menu-text {
+    color: #E5DCC5;
+}
+
+.group-image {
+    width: 100%;
 }
