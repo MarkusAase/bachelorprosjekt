@@ -1,0 +1,20 @@
+#contentContainer {
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.center {
+    text-align: center;
+}
+
+#title {
+   font-size: 300%;
+}
+
+.sectionTitles {
+    font-size: 140%;
+}
+
+.name {
+    font-size: 130%;
+}
